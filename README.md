@@ -1,19 +1,4 @@
 # PHP7内核剖析
-````
-原创内容，转载请注明出处~
-
-代码版本：php-7.0.12
-````
-## 反馈
-[交流&吐槽](https://github.com/pangudashu/php7-internal/issues/3)  [错误反馈](https://github.com/pangudashu/php7-internal/issues/2)
-
-## 纸质版
-<div align="center">
-    <img src="img/book.jpg" height="280" >
-</div>
-
-[京东](https://item.jd.com/12267210.html)
-[当当](http://product.dangdang.com/25185400.html)
 
 ## 目录：
 * 第1章 PHP基本架构
